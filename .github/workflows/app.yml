@@ -1,4 +1,4 @@
-name: CI/CD for react Todo 
+name: ci-cd-react 
 
 on:
   push:
